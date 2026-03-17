@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nidhi Bharti</h1>
+<h3 align="center">Backend Developer | Django | REST API Specialist</h3>
 
-<!--
-**Nidhi334/Nidhi334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 🔭 I’m currently working on **Django-based projects (Healthcare & Education systems)**
+- 🌱 I’m learning **Advanced Django, DRF, and System Design**
+- 💬 Ask me about **Django, APIs, Authentication, Role-based Systems**
+- ⚡ Fun fact: I love solving real-world backend problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+- Django
+- Django REST Framework (DRF)
+- Python
+
+### 🗄️ Database
+- PostgreSQL
+- SQLite
+- MySQL
+
+### 🔐 Authentication & Security
+- JWT Authentication
+- Role-based Access Control
+
+### ⚙️ Tools
+- Git & GitHub
+- Postman
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🏥 Healthcare Management System
+- Role-based login (Admin, Doctor, Agent, etc.)
+- Billing, Patient, Test management
+- REST APIs using DRF
+
+### 🎓 Education Platform
+- Teacher & Recruiter modules
+- Exams, Questions, Results system
+- Dynamic permissions
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nidhi334&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi334&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+- 💼 LinkedIn: [Nidhi Bharti] (www.linkedin.com/in/nidhi-bharti-07a0a02a5)
+- 📧 Email: [Nidhi Bharti] (knidhibharti8178@gmail.com)
+
+---
+
+⭐️ From [Nidhi334](https://github.com/Nidhi334)
